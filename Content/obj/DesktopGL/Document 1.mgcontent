@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/GAMEDEV/monogame practice/Project3/Project3/Content/Document 1.wav</SourceFile>
+  <SourceTime>2023-10-23T16:58:13.4794668-06:00</SourceTime>
+  <DestFile>D:/GAMEDEV/monogame practice/Project3/Project3/Content/bin/DesktopGL/Document 1.xnb</DestFile>
+  <DestTime>2023-12-27T11:02:49.7728046-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T05:44:56-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T05:44:56-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

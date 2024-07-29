@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Project3</id>
+    <version>1.0.0</version>
+    <authors>Project3</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Emgu.CV" version="4.8.0.5324" exclude="Build,Analyzers" />
+        <dependency id="Emgu.CV.Bitmap" version="4.8.0.5324" exclude="Build,Analyzers" />
+        <dependency id="Emgu.CV.runtime.windows" version="4.8.0.5324" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.1.303" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.DesktopGL" version="3.8.1.303" exclude="Build,Analyzers" />
+        <dependency id="System.Dynamic.Runtime" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/crosshairs.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/galleryFont.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/sky.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/upload.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/webcam.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="E:\GAMEDEV\monogame practice\Project3\Project3\bin\Debug\net6.0\Project3.runtimeconfig.json" target="lib\net6.0\Project3.runtimeconfig.json" />
+    <file src="E:\GAMEDEV\monogame practice\Project3\Project3\bin\Debug\net6.0\Project3.dll" target="lib\net6.0\Project3.dll" />
+    <file src="E:\GAMEDEV\monogame practice\Project3\Project3\Content\bin\DesktopGL\Content\crosshairs.xnb" target="content\Content\bin\DesktopGL\Content\crosshairs.xnb" />
+    <file src="E:\GAMEDEV\monogame practice\Project3\Project3\Content\bin\DesktopGL\Content\crosshairs.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\crosshairs.xnb" />
+    <file src="E:\GAMEDEV\monogame practice\Project3\Project3\Content\bin\DesktopGL\Content\galleryFont.xnb" target="content\Content\bin\DesktopGL\Content\galleryFont.xnb" />
+    <file src="E:\GAMEDEV\monogame practice\Project3\Project3\Content\bin\DesktopGL\Content\galleryFont.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\galleryFont.xnb" />
+    <file src="E:\GAMEDEV\monogame practice\Project3\Project3\Content\bin\DesktopGL\Content\sky.xnb" target="content\Content\bin\DesktopGL\Content\sky.xnb" />
+    <file src="E:\GAMEDEV\monogame practice\Project3\Project3\Content\bin\DesktopGL\Content\sky.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\sky.xnb" />
+    <file src="E:\GAMEDEV\monogame practice\Project3\Project3\Content\bin\DesktopGL\Content\upload.xnb" target="content\Content\bin\DesktopGL\Content\upload.xnb" />
+    <file src="E:\GAMEDEV\monogame practice\Project3\Project3\Content\bin\DesktopGL\Content\upload.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\upload.xnb" />
+    <file src="E:\GAMEDEV\monogame practice\Project3\Project3\Content\bin\DesktopGL\Content\webcam.xnb" target="content\Content\bin\DesktopGL\Content\webcam.xnb" />
+    <file src="E:\GAMEDEV\monogame practice\Project3\Project3\Content\bin\DesktopGL\Content\webcam.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\webcam.xnb" />
+  </files>
+</package>

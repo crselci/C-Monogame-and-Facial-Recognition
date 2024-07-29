@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/GAMEDEV/monogame practice/Project3/Project3/Content/bgSound.wav","D:/GAMEDEV/monogame practice/Project3/Project3/Content/bin/DesktopGL/bgSound.xnb","SoundEffectProcessor","SoundEffectContent",37887940,37888001,1.853954
+"D:/GAMEDEV/monogame practice/Project3/Project3/Content/crosshairs.png","D:/GAMEDEV/monogame practice/Project3/Project3/Content/bin/DesktopGL/crosshairs.xnb","TextureProcessor","Texture2DContent",1892,10085,0.0921538
+"D:/GAMEDEV/monogame practice/Project3/Project3/Content/Document 1.wav","D:/GAMEDEV/monogame practice/Project3/Project3/Content/bin/DesktopGL/Document 1.xnb","SoundEffectProcessor","SoundEffectContent",705724,705705,0.2538127
+"D:/GAMEDEV/monogame practice/Project3/Project3/Content/galleryFont.spritefont","D:/GAMEDEV/monogame practice/Project3/Project3/Content/bin/DesktopGL/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,0.283126
+"D:/GAMEDEV/monogame practice/Project3/Project3/Content/sky.png","D:/GAMEDEV/monogame practice/Project3/Project3/Content/bin/DesktopGL/sky.xnb","TextureProcessor","Texture2DContent",1079607,9216085,0.6112159
+"D:/GAMEDEV/monogame practice/Project3/Project3/Content/upload.png","D:/GAMEDEV/monogame practice/Project3/Project3/Content/bin/DesktopGL/upload.xnb","TextureProcessor","Texture2DContent",2811,360085,0.0260701
+"D:/GAMEDEV/monogame practice/Project3/Project3/Content/webcam.png","D:/GAMEDEV/monogame practice/Project3/Project3/Content/bin/DesktopGL/webcam.xnb","TextureProcessor","Texture2DContent",3005,360085,0.0260773
