@@ -1,4 +1,4 @@
-# C-Monogame-and-Facial-Recognition
+# C#-Monogame-and-Facial-Recognition
 
 ### Overview
 A quick game I developed to explore the capabilities of the Monogame Template in C#. This project integrates facial recognition technology to enhance interactive gameplay. Through this project, I learned how to leverage Monogame for game development and utilized Emgu.CV, an OpenCV wrapper, for facial recognition.
