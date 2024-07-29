@@ -9,6 +9,8 @@ A quick game I developed to explore the capabilities of the Monogame Template in
 - System
 
 ### Tools and Resources
+- **Buttons**: Created using Aseprite.
+  
 - **haarcascade_frontalface_alt.xml**: Stump-based 20x20 gentle adaboost frontal face detector. Created by Rainer Lienhart.
 
 
